@@ -3,8 +3,8 @@
 # modify the code
 # Upload the modified code into repo
 
-a = 10
-b = 20
+a = 20
+b = 30
 c = a+b
-print ("repo1 code")
+print ("repo2 code")
 print ("Sum is :", c)
